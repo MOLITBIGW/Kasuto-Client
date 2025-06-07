@@ -4,10 +4,6 @@ A private Minecraft client based on [LvStrnggg's clientbase](https://github.com/
 
 > ❗ This project is **closed-source** and not intended for public redistribution or modification.
 
-## 📷 Screenshots / Demos
-
-*(Insert screenshots or GIFs of your client GUI and modules in action)*
-
 ## 📦 Build
 
 This client is **not** open-source. No build instructions will be provided publicly.
