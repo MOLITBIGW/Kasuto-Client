@@ -1,4 +1,4 @@
-# All In One Minecraft Client
+# Minecraft Client
 
 A private Minecraft client based on [LvStrnggg's clientbase](https://github.com/LvStrnggg/clientbase).
 
